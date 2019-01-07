@@ -1,4 +1,7 @@
 # Easy-Quadruped-kinematic
+
+Please, have a look at the vidéo, https://youtu.be/u2TaByk-uVE
+
 KinematicV9.ino is a very simple program in C language to test your quadruped kinematic.
 This example is for a 8 servos quadruped like a Kame. Credit to JavierIH, owenlab, manic-3d-print.
 All servos work simultaneously. This is the good of this program.
