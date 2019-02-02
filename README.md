@@ -16,3 +16,5 @@ QuadrupedKinematicStroll-V3.ino is a program based on KinematicV9.ino
 This program is a stroll example with forward, turn left and turn right. Notice that the 4 first lines of the tables are the same but in different order.
 
 QuadrupedKinematicUS-V1.ino is a program using an ultrasonic sensor. It looks very much like QuadrupedKinematicStroll-V3.ino exept that it uses the ultrasonic sensor to change way.
+
+As some people ask for a simpler version with less pointers, here you can find it in the release, https://github.com/oracid/Easy-Quadruped-kinematic/releases
